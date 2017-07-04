@@ -1,0 +1,6 @@
+
+BUILD FAILED
+/Users/Jeannette/IdeaProjects/TMCProjects/2013-OOProgrammingWithJava-PART2/week12-week12_49.WormGame/nbproject/build-impl.xml:923: The following error occurred while executing this line:
+/Users/Jeannette/IdeaProjects/TMCProjects/2013-OOProgrammingWithJava-PART2/week12-week12_49.WormGame/nbproject/build-impl.xml:263: Compile failed; see the compiler error output for details.
+
+Total time: 1 second
