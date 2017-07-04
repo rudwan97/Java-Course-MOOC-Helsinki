@@ -1,0 +1,6 @@
+
+BUILD FAILED
+/Users/Jeannette/IdeaProjects/TMCProjects/2013-OOProgrammingWithJava-PART2/week11-week11_35.TwoDirectionDictionary/nbproject/build-impl.xml:603: The following error occurred while executing this line:
+/Users/Jeannette/IdeaProjects/TMCProjects/2013-OOProgrammingWithJava-PART2/week11-week11_35.TwoDirectionDictionary/nbproject/build-impl.xml:245: Compile failed; see the compiler error output for details.
+
+Total time: 0 seconds

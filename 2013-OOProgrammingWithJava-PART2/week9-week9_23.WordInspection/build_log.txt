@@ -1,0 +1,77 @@
+
+-pre-init:
+
+-init-private:
+
+-init-user:
+
+-init-project:
+
+-init-macrodef-property:
+
+-do-init:
+
+-post-init:
+
+-init-check:
+
+-init-ap-cmdline-properties:
+
+-init-macrodef-javac-with-processors:
+
+-init-macrodef-javac-without-processors:
+
+-init-macrodef-javac:
+
+-init-macrodef-junit:
+
+-init-debug-args:
+
+-init-macrodef-nbjpda:
+
+-init-macrodef-debug:
+
+-init-macrodef-java:
+
+-init-presetdef-jar:
+
+-init-ap-cmdline-supported:
+
+-init-ap-cmdline:
+
+init:
+
+-deps-jar-init:
+
+deps-jar:
+    [mkdir] Created dir: /Users/Jeannette/IdeaProjects/TMCProjects/2013-OOProgrammingWithJava-PART2/week9-week9_23.WordInspection/build
+
+-warn-already-built-jar:
+[propertyfile] Updating property file: /Users/Jeannette/IdeaProjects/TMCProjects/2013-OOProgrammingWithJava-PART2/week9-week9_23.WordInspection/build/built-jar.properties
+
+-check-automatic-build:
+
+-clean-after-automatic-build:
+
+-verify-automatic-build:
+
+-pre-pre-compile:
+    [mkdir] Created dir: /Users/Jeannette/IdeaProjects/TMCProjects/2013-OOProgrammingWithJava-PART2/week9-week9_23.WordInspection/build/classes
+
+-pre-compile:
+
+-copy-persistence-xml:
+
+-compile-depend:
+
+-do-compile:
+    [mkdir] Created dir: /Users/Jeannette/IdeaProjects/TMCProjects/2013-OOProgrammingWithJava-PART2/week9-week9_23.WordInspection/build/empty
+    [mkdir] Created dir: /Users/Jeannette/IdeaProjects/TMCProjects/2013-OOProgrammingWithJava-PART2/week9-week9_23.WordInspection/build/generated-sources/ap-source-output
+    [javac] Compiling 2 source files to /Users/Jeannette/IdeaProjects/TMCProjects/2013-OOProgrammingWithJava-PART2/week9-week9_23.WordInspection/build/classes
+    [javac] warning: [options] bootstrap class path not set in conjunction with -source 1.6
+    [javac] /Users/Jeannette/IdeaProjects/TMCProjects/2013-OOProgrammingWithJava-PART2/week9-week9_23.WordInspection/src/wordinspection/WordInspection.java:22: error: diamond operator is not supported in -source 1.6
+    [javac]         List<String> zWords = new ArrayList<>();
+    [javac]                                             ^
+    [javac]   (use -source 7 or higher to enable diamond operator)
+    [javac] 1 error
+    [javac] 1 warning
